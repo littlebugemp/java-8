@@ -1,4 +1,4 @@
-package functional.interfaces;
+package functional_interfaces;
 
 /**
 * if string has character a in it or have length 10

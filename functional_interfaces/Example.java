@@ -1,4 +1,4 @@
-package functional.interfaces;
+package functional_interfaces;
 
 public class Example {
     public static void main(String[] args) {

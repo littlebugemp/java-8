@@ -1,4 +1,4 @@
-package method.reference;
+package method_reference;
 
 public class Person {
     public String getName() {
